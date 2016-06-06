@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-hamljs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Haml.js support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -10,16 +10,19 @@
     "hamljs": "^0.6.2",
     "promise": "^7.0.3"
   },
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "test-jstransformer",
-    "coverage": "test-jstransformer coverage"
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
   },
-  "files": [
-    "index.js"
-  ],
+  "engines": {
+    "node": ">=0.10.36"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jstransformers/jstransformer-hamljs.git"
