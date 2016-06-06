@@ -1,6 +1,6 @@
 # jstransformer-hamljs
 
-[Haml.js](ps://github.com/tj/haml.js) support for [JSTransformers](http://github.com/jstransformers).
+[Haml.js](http://github.com/tj/haml.js) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-hamljs/master.svg)](https://travis-ci.org/jstransformers/jstransformer-hamljs)
 [![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-hamljs/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-hamljs?branch=master)
