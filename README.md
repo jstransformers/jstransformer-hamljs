@@ -1,6 +1,6 @@
 # jstransformer-hamljs
 
-[Haml.js](https://github.com/tj/haml.js) support for [JSTransformers](http://github.com/jstransformers).
+[Haml.js](ps://github.com/tj/haml.js) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-hamljs/master.svg)](https://travis-ci.org/jstransformers/jstransformer-hamljs)
 [![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-hamljs/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-hamljs?branch=master)
@@ -10,6 +10,15 @@
 ## Installation
 
     npm install jstransformer-hamljs
+
+## API
+
+```js
+var hamljs = require('jstransformer')(require('jstransformer-hamljs'))
+
+hamljs.render('#home\n  = title').body
+//=> '<div id="home">Hello World!</div>'
+```
 
 ## License
 
