@@ -5,6 +5,7 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-hamljs/master.svg)](https://travis-ci.org/jstransformers/jstransformer-hamljs)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-hamljs/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-hamljs)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-hamljs/master.svg)](http://david-dm.org/jstransformers/jstransformer-hamljs)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-hamljs.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-hamljs.svg)](https://www.npmjs.org/package/jstransformer-hamljs)
 
 ## Installation
