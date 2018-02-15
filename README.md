@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var hamljs = require('jstransformer')(require('jstransformer-hamljs'));
+var hamljs = require('jstransformer')(require('jstransformer-hamljs'))
 
 hamljs.render('#home\n  = title').body
 //=> '<div id="home">Hello World!</div>'
