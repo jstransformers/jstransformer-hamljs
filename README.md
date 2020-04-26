@@ -1,6 +1,6 @@
 # jstransformer-hamljs
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-hamljs.svg)](https://greenkeeper.io/)
+
 
 [Haml.js](http://github.com/tj/haml.js) support for [JSTransformers](http://github.com/jstransformers).
 
